@@ -1,0 +1,1 @@
+Pre-requisites for migration from 11gr2 to 12c
